@@ -1,5 +1,5 @@
 import CategoryItem from '../category-item/CategoryItem'
-import './Home.scss'
+import './Directory.scss'
 
 const Home = ({ categories }) => (
   <div className="directory-container">
